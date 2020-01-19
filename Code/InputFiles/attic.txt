@@ -1,0 +1,632 @@
+***The Project Gutenberg Etext of Stories From the Old Attic***
+
+**This is a COPYRIGHTED Project Gutnberg Etext, Details Below**
+
+
+Stories From the Old Attic, by Robert Harris  (C) 1992
+
+Please take a look at the important information in this header.
+We encourage you to keep this file on your own disk, keeping an
+electronic path open for the next readers.  Do not remove this.
+
+
+**Welcome To The World of Free Plain Vanilla Electronic Texts**
+
+**Etexts Readable By Both Humans and By Computers, Since 1971**
+
+*These Etexts Prepared By Hundreds of Volunteers and Donations*
+
+Information on contacting Project Gutenberg to get Etexts, and
+further information is included below.  We need your donations.
+
+
+Stories From the Old Attic
+
+by Robert Harris
+
+April, 1995  [Etext #240]
+
+
+***The Project Gutenberg Etext of Stories From the Old Attic***
+******This file should be named attic10.txt or attic10.zip*****
+
+Corrected EDITIONS of our etexts get a new NUMBER, attic11.txt
+VERSIONS based on separate sources get new LETTER, attic10a.txt
+
+
+The official release date of all Project Gutenberg Etexts is at
+Midnight, Central Time, of the last day of the stated month.  A
+preliminary version may often be posted for suggestion, comment
+and editing by those who wish to do so.  To be sure you have an
+up to date first edition [xxxxx10x.xxx] please check file sizes
+in the first week of the next month.  Since our ftp program has
+a bug in it that scrambles the date [tried to fix and failed] a
+look at the file size will have to do, but we will try to see a
+new copy has at least one byte more or less.
+
+
+Information about Project Gutenberg (one page)
+
+We produce about two million dollars for each hour we work.  The
+fifty hours is one conservative estimate for how long it we take
+to get any etext selected, entered, proofread, edited, copyright
+searched and analyzed, the copyright letters written, etc.  This
+projected audience is one hundred million readers.  If our value
+per text is nominally estimated at one dollar, then we produce 2
+million dollars per hour this year we, will have to do four text
+files per month:  thus upping our productivity from one million.
+The Goal of Project Gutenberg is to Give Away One Trillion Etext
+Files by the December 31, 2001.  [10,000 x 100,000,000=Trillion]
+This is ten thousand titles each to one hundred million readers,
+which is 10% of the expected number of computer users by the end
+of the year 2001.
+
+We need your donations more than ever!
+
+All donations should be made to "Project Gutenberg/IBC", and are
+tax deductible to the extent allowable by law ("IBC" is Illinois
+Benedictine College).  (Subscriptions to our paper newsletter go
+to IBC, too)
+
+For these and other matters, please mail to:
+
+Project Gutenberg
+P. O. Box  2782
+Champaign, IL 61825
+
+Internet:      dircompg@ux1.cso.uiuc.edu
+Bitnet:        dircompg@uiucux1
+CompuServe:    >internet:dircompg@.ux1.cso.uiuc.edu
+Attmail:       internet!ux1.cso.uiuc.edu!dircompg
+
+When all other email fails try our Michael S. Hart, Executive
+Director:
+hart@vmd.cso.uiuc.edu (internet)   hart@uiucvmd   (bitnet)
+
+We would prefer to send you this information by email
+(Internet, Bitnet, Compuserve, ATTMAIL or MCImail).
+
+******
+If you have an FTP program (or emulator), please
+FTP directly to the Project Gutenberg archives:
+[Mac users, do NOT point and click. . .type]
+
+ftp mrcnext.cso.uiuc.edu
+login:  anonymous
+password:  your@login
+cd etext/etext90 though etext/etext94
+or cd etext94 [for new books]  [now in cd etext/etext93]
+or cd etext/articles
+dir [to see files]
+get or mget [to get files. . .set bin for zip files]
+get INDEX100.GUT
+get INDEX200.GUT
+for a list of books
+and
+get NEW.GUT for general information
+and
+mget GUT* for newsletters.
+
+**Information prepared by the Project Gutenberg legal advisor**
+(Three Pages)
+
+***START** SMALL PRINT! for COPYRIGHT PROTECTED ETEXTS ***
+TITLE AND COPYRIGHT NOTICE:
+
+
+Stories From The Old Attic, by Robert Harris  (C)1992
+
+
+This etext is distributed by Professor Michael S. Hart through
+the Project Gutenberg Association at Illinois Benedictine College
+(the "Project") under the Project's "Project Gutenberg" trademark
+and with the permission of the etext's copyright owner.
+
+LICENSE
+You can (and are encouraged!) to copy and distribute this
+Project Gutenberg-tm etext.  Since, unlike many other of the
+Project's etexts, it is copyright protected, and since the
+materials and methods you use will effect the Project's
+reputation,
+your right to copy and distribute it is limited by the copyright
+laws and by the conditions of this "Small Print!" statement.
+
+  [A]  ALL COPIES: The Project permits you to distribute
+copies of this etext electronically or on any machine readable
+medium now known or hereafter discovered so long as you:
+
+     (1)  Honor the refund and replacement provisions of this
+"Small Print!" statement; and
+
+     (2)  Pay a royalty to the Project of 20% of the net
+profits you derive calculated using the method you already use
+to calculate your applicable taxes.  If you don't derive
+profits, no royalty is due.  Royalties are payable to "Project
+Gutenberg Association / Illinois Benedictine College" within
+the 60 days following each date you prepare (or were legally
+required to prepare) your annual (or equivalent periodic) tax
+return.
+
+  [B]  EXACT AND MODIFIED COPIES: The copies you distribute
+must either be exact copies of this etext, including this
+Small Print statement, or can be in binary, compressed, mark-
+up, or proprietary form (including any form resulting from
+word processing or hypertext software), so long as *EITHER*:
+
+     (1)  The etext, when displayed, is clearly readable, and
+does *not* contain characters other than those intended by the
+author of the work, although tilde (~), asterisk (*) and
+underline (_) characters may be used to convey punctuation
+intended by the author, and additional characters may be used
+to indicate hypertext links; OR
+
+     (2)  The etext is readily convertible by the reader at no
+expense into plain ASCII, EBCDIC or equivalent form by the
+program that displays the etext (as is the case, for instance,
+with most word processors); OR
+
+     (3)  You provide or agree to provide on request at no
+additional cost, fee or expense, a copy of the etext in plain
+ASCII.
+
+LIMITED WARRANTY; DISCLAIMER OF DAMAGES
+This etext may contain a "Defect" in the form of incomplete,
+inaccurate or corrupt data, transcription errors, a copyright
+or other infringement, a defective or damaged disk, computer
+virus, or codes that damage or cannot be read by your
+equipment.  But for the "Right of Replacement or Refund"
+described below, the Project (and any other party you may
+receive this etext from as a PROJECT GUTENBERG-tm etext)
+disclaims all liability to you for damages, costs and
+expenses, including legal fees, and YOU HAVE NO REMEDIES FOR
+NEGLIGENCE OR UNDER STRICT LIABILITY, OR FOR BREACH OF
+WARRANTY OR CONTRACT, INCLUDING BUT NOT LIMITED TO INDIRECT,
+CONSEQUENTIAL, PUNITIVE OR INCIDENTAL DAMAGES, EVEN IF YOU
+GIVE NOTICE OF THE POSSIBILITY OF SUCH DAMAGES.
+
+If you discover a Defect in this etext within 90 days of
+receiving it, you can receive a refund of the money (if any)
+you paid for it by sending an explanatory note within that
+time to the person you received it from.  If you received it
+on a physical medium, you must return it with your note, and
+such person may choose to alternatively give you a replacement
+copy.  If you received it electronically, such person may
+choose to alternatively give you a second opportunity to
+receive it electronically.
+
+THIS ETEXT IS OTHERWISE PROVIDED TO YOU "AS-IS".  NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, ARE MADE TO YOU AS
+TO THE ETEXT OR ANY MEDIUM IT MAY BE ON, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A
+PARTICULAR PURPOSE.  Some states do not allow disclaimers of
+implied warranties or the exclusion or limitation of
+consequential damages, so the above disclaimers and exclusions
+may not apply to you, and you may have other legal rights.
+
+INDEMNITY
+You will indemnify and hold the Project, its directors,
+officers, members and agents harmless from all liability, cost
+and expense, including legal fees, that arise directly or
+indirectly from any of the following that you do or cause:
+[1] distribution of this etext, [2] alteration, modification,
+or addition to the etext, or [3] any Defect.
+
+WHAT IF YOU *WANT* TO SEND MONEY EVEN IF YOU DON'T HAVE TO?
+Project Gutenberg is dedicated to increasing the number of
+public domain and licensed works that can be freely distributed
+in machine readable form.  The Project gratefully accepts
+contributions in money, time, scanning machines, OCR software,
+public domain etexts, royalty free copyright licenses,
+and whatever else you can think of.  Money should be paid to
+"Project Gutenberg Association / Illinois Benedictine College".
+
+This "Small Print!" by Charles B. Kramer, Attorney
+Internet (72600.2026@compuserve.com); TEL: (212-254-5093)
+*SMALL PRINT! Ver.04.29.93 FOR COPYRIGHT PROTECTED ETEXTS*END*
+
+
+
+
+
+STORIES FROM THE OLD ATTIC
+Robert Harris
+1992
+
+Copyright 1992 Robert Harris
+Permission is granted to share this book as an electronic text
+All other rights, include hardcopy publication, are reserved
+
+To Mom
+
+Contents:
+
+The Second Greatest Commandment
+A Good Horse and a Better
+It's Nut Valuable
+Stewardship
+The Man Who Believed in Miracles
+A Fish Story
+Man
+Love
+Indecision
+The Limit
+How Sir Reginald Helped the King
+How the Noble Percival Won the Fair Arissa
+Truth Carved in Stone
+How Sir Philo Married a Beautiful Princess Instead of the Woman He Loved
+Serendipity
+A Tale Revealing the Wisdom of Being a Cork on the River of Life
+The Art of Truth
+Matthew 18:3
+The Boy and the Vulture
+Three Flat Tires
+The History of Professor De Laix
+How the Humans Finally Learned to Like Themselves
+The Caterpillar and the Bee
+The Wise One
+On the Heroic Suffering of Mankind
+The Quest
+Life
+Discernment
+It Depends on How You Look at It: Eight Vignettes on Perspective
+The Strange Adventure
+In Defeat There Is Victory
+The Oppressed Girl
+Two Conversations on Direction
+Semiotics Strikes Out
+Seeing is Believing
+A Traditional Story
+The Day Creativity Met the Linear Dragon
+The Wall and the Bridge
+The Wish
+Several One Way Conversations
+How the King Learned about Love
+The Fly and the Elephant
+The Man Who Talked Backwards
+The Clue
+An Analogy
+
+
+
+The Second Greatest Commandment
+
+A man was out shoveling the excess gravel off his driveway and
+into the graveled road that ran by his house.  A neighbor happened
+to be walking by just as the man tossed a shovel full down the road
+the opposite way the man used to drive in and out.  "I see you
+aren't messing up the part of the road you use," sneered the neighbor.
+
+A few minutes later another neighbor happened by and saw the
+man toss a shovel full of gravel down the other part of the road.  "I
+see you are fixing only the part of the road you use, and not the
+part others must use," sneered the second neighbor.
+
+The shoveler stood still with a shovel full of gravel as the
+second man left.  Now unsure of what to do with it that would be
+agreeable to his neighbors, he decided simply to dump it out onto
+his driveway on the very spot whence he had scooped it up.  Just as
+he did so, a third neighbor happened to be walking by.  "I see you
+are stealing gravel from the road for your driveway," sneered the
+third man.  "People like you are what's wrong with this country."
+
+At this point the homeowner put his shovel away and sat down
+with his pipe to contemplate these occurrences.  Pretty soon a
+neighbor from further down the street drove by and saw the man
+sitting down enjoying his pipe.  "If you weren't so lazy, you'd
+shovel some of that gravel off your driveway and back onto the road
+where it belongs," the driver sneered as he drove away, spinning his
+tires and scattering gravel in every direction.
+
+
+
+A Good Horse and a Better
+
+A man once came upon a lad about midday skipping stones across
+a pond.  "Hello, young man," he said, approaching.  "What brings you
+here on a school day?"
+
+"I wrote a poem yesterday which was the best in class, and the
+teacher said I could play today while the other children wrote
+more poems."
+
+"Well, then, you are to be congratulated.  Yours is certainly a
+deed of distinction.  And as a reward," he added, settling himself
+on a tree stump, "let me tell you a story about two horses."
+
+"Oh, yes, do," the youth said eagerly, sitting down at the
+man's feet.
+
+"The first horse lived in Arabia, and he was beautiful and
+strong.  He had never lost a race.  And he was shrewd.  He would
+run just hard enough to pull away from the other horses in the race,
+and then he would let up and trot, or even walk, across the finish
+line, to the great embarrassment and humiliation of all the
+other horses."
+
+"He was clearly a superior animal," the young poet interjected.
+
+"Yes, he was," agreed the man.  "Now the other horse lived in
+Macedonia, and he, too, was strong and noble.  He had, however, lost
+one race, the first race of his life; and some say he always
+remembered that when he ran."
+
+"How grating to the heart it must be to lose so early and have
+a blight on one's reputation," mused the young man.
+
+"But this horse always won every other race.  And unlike our
+first horse, when this Macedonian horse ran and knew he had beaten
+the other horses, instead of letting up he redoubled his efforts and
+ran even harder--as hard as he could--for he now ran not against the
+fortuitous competitors with whom he began the race, but against his
+own heart: against all horses past and all horses future, against
+every horse in Macedonia and every one in Arabia, and also against
+the ideal horse with a pace so frighteningly fast that few can
+conceive its possibility.  And even more than this, he ran toward
+the perfection of excellence itself.  And when he crossed the
+finish line, as happy as he was to win, he secretly lamented that
+his opponents had not been fast enough to threaten him and push
+him onward."
+
+"Even though he lost once," the lad remarked after a short
+silence, "perhaps this horse was as good as the Arabian."
+
+"Perhaps so, my child," said the man, with a smile.  "Perhaps so."
+
+
+
+It's Nut Valuable
+
+Once upon a time a wise and thoughtful craftsman made a new
+electric adding machine.  It was very complex with many gears and
+levers and wheels, and it did amazing things, always adding up the
+numbers correctly.  So the craftsman sold it to a businessman for
+many thousands of dollars.  All the parts inside the new adding
+machine felt good about being so valuable.  They worked hard and
+happily all day, and often talked about how useful they were to
+the businessman.
+
+But one day a spring noticed a little nut just sitting on
+the end of a shaft.  The spring pulled at the lever he was
+attached to and pointed.  Soon the whole works knew.  "You lazy
+little nut," said a spinning gear, "why don't you get to work?"
+
+"But I am working," said the nut.  "Holding on is my job."
+
+"That's stupid," yelled a cam.  "I don't believe our maker put
+you here.  You just sneaked in to steal some of our glory.  Why don't
+you get out?"
+
+"Well," said the nut, "I'm sure our maker knew what he was
+doing, and that I do serve a purpose.  I hold on as tightly as I
+can." But all the machinery began to squeal and abuse the nut so
+violently that he felt very sad and began to doubt himself.
+"Maybe I am useless," he thought.  He appealed to the shaft he was
+threaded onto.
+
+"Look, kid," the shaft told him, "I've got plenty of other
+parts holding on to me.  I shouldn't have to support you, too."
+
+So finally the little nut decided to unscrew himself and go
+away.  He dropped off the shaft and fell through a hole in the
+bottom of the machine.  "Good riddance," said the motor.
+
+"Yeah, good riddance," all the other parts agreed.
+
+Rather quickly the nut was forgotten and things went on as they
+had for awhile.  But in a few hours, the shaft began to feel funny.
+At first he began to vibrate.  Then he started sliding and slipping.
+He called for help to the other parts attached to him, but they
+could do nothing.  Presently the shaft fell completely out of his
+mounting hole, causing many levers and gears and cams to slip out
+of alignment and crash against each other, and forcing the whole
+machine to grind to a halt with an awful noise.  The motor tried
+his best to keep things going--he tried so hard that he bent many
+of the parts--and then as he tried even harder, he burned himself
+out.  "This is all the fault of that little nut," the ruined parts
+all agreed.
+
+"I'll give ya three bucks for it," said the junk man to the
+office manager.
+
+
+
+Stewardship
+
+A wise man approached three young men standing around idly.
+"Here is a coin worth a hundred dollars," the wise man said to the
+first youth.  "What should I do with it?"
+
+"Give it to me," he said at once.
+
+"Rather than reward such selfishness and greed," responded the
+wise man, "it would be better to throw the money into the sea."  And
+with this, the wise man threw the coin into the water.  "Now," he
+said to the second youth, "here is another coin.  What should I do
+with it?"
+
+The second youth, feeling shrewd, answered, "Throw it into the sea."
+
+But the wise man said, "That would be a careless waste.  To
+follow a bad example only because it is an example is folly.  Better
+than throwing this money away would be to give it to the poor."  And
+he gave the money to a beggar sitting nearby.  "I have one last
+coin," the wise man went on, talking to the third youth.  "What
+shall I do with it?"
+
+The third youth had been paying attention, and, thinking he
+would get the money if he avoided the greed and wastefulness implied
+in the answers of his friends, said, "Why, give it to the poor."
+
+"That is a very wise and kind answer," said the wise man,
+smiling.  And because you have answered so well" (at this the youth
+brightened with expectation), "I will indeed take your good advice
+and give the money to the poor."
+
+"Don't I get anything for my wisdom?" demanded the youth.
+
+"You have already received something much better than money,"
+said the wise man.
+
+
+
+The Man Who Believed in Miracles
+
+Once upon a time a traveler arrived in a land quite like our
+own, full of modern technology like cars and computers and whistling
+teapots, but with these two differences: there were no television
+sets and no airplanes.  In fact, nothing at all had ever been seen
+in the sky, not even a bird, and the only movies the people ever saw
+were in the theaters.
+
+The traveler stayed for about a month on the eastern shore where
+he had arrived, and then decided to visit the western cities.  He
+mentioned his decision one evening at a meeting of the principal
+scientists and educators of the region, who had gathered to hear of
+his travels.  Someone mentioned that the west had much to offer, but
+that the journey between the two areas was unpleasant, consisting of
+crossing a hot, empty desert.  "In that case," said the traveler,
+"I'll just fly."
+
+"Is that like sleep?" one of the scientists asked.
+
+"No, no," the traveler replied.  "You know, fly through the air,
+like a bird."
+
+"And what is a bird?" someone asked.  And so the traveler began
+to explain about flight and what an airplane was and how it flew from
+one place to another.  The room became very quiet, and the
+expressions on the faces of everyone present darkened.
+
+"Does he expect us to believe this?" one man whispered to another.
+
+"Well, you know what liars travelers are," someone else added.
+Finally the host spoke up, slightly embarrassed and slightly indignant.
+
+"If this is your idea of a joke," he began, but was interrupted
+by the surprised traveler.
+
+"Why, it's no joke at all.  People fly all the time."
+
+"I am sorry that you so much underestimate the intelligence and
+learning of your audience," said a professor across the table.  "That
+a person could enter some metal device--like a car with fins--and
+rise into the air, and be sustained there, and move forward, why that
+clearly violates everything we know about the law of gravity and the
+laws of physics.  If we have learned anything from a thousand years
+of study of the natural world, it is that an object heavier than air
+must return immediately to earth when it is tossed into the sky."
+
+"Hear, hear," two or three people muttered.
+
+"Now, if you perhaps mean that these 'airplanes,' as you call
+them, are somehow flung into the air for a short distance and then
+fall to the ground, well, then perhaps that would be possible."  The
+professor looked expectantly and a bit condescendingly at the
+traveler, hoping that the man would take this face-saving opportunity.
+
+"No, no.  You don't understand," said the traveler.  "The
+airplanes have powerful motors and the craft rise into the air, and
+they stay up as long as they want, as long as the fuel holds out."
+There were several audible "hmmphs" around the room.
+
+"Tell us then," said another scholar, in a saccharine voice,
+"how this device works.  What makes it fly?"
+
+"Well, I don't know exactly how it works.  It has something to
+do with air flowing over the wings."
+
+"You don't know--you cannot explain--how it works, this device
+that runs counter to everything we know about the natural world, yet
+you believe in it anyway."
+
+"Believe in it?" asked the traveler, a bit confused by this
+turn of phrase.  "Of course I 'believe in it.' I fly on one all the
+time at home."
+
+"And how do you control its motions?" a man asked, without
+removing his pipe.  The audience was clearly beginning to patronize
+the traveler, and he was growing a little irritated.
+
+"Oh, I don't control it.  There's a pilot for that."
+
+"I see," the pipe smoker said.  "So this airplane contains both
+you and the pilot.  You're telling us that perhaps four or five
+hundred pounds of dead weight can travel through the air as long
+as it wants."
+
+"As long as the fuel holds out," added one of the hmmphers,
+with amusement.
+
+"And all the time sneering at the law of gravity and laughing
+science in the face," someone else noted.
+
+"Well, actually, the planes are much larger than that," said
+the traveler.  "Many of them hold two or three hundred people and
+weigh, my, I don't know--many thousands of pounds."
+
+"I think we have heard enough," the now-fully-embarrassed
+and half-angered host said.  "It was amusing for awhile, but it's
+time to put an end to this nonsense."
+
+"It is not nonsense," the traveler protested.  "It is the truth."
+
+"Then you really believe this madman's drivel you've been
+feeding us?" the host asked, rather hotly.
+
+"Of course.  How can I not believe it?  I see it and live it
+every day.  And here," he added, remembering something, "I even
+have a photograph."
+
+"Obviously faked," said the host, dismissing it after a glance.
+
+"Who invited this charlatan?" someone asked of no one in particular.
+
+"I thought science had put an end to all this miraculous event
+stuff long ago," said another man, rising from his chair and
+preparing to leave.
+
+"Well, let's not pursue this pointless discussion," the
+host said.  "Our guest apparently knows nothing of science, and
+is impervious to logic and to the considered opinion of the best
+minds of our nation.  There's nothing left to do but adjourn."
+The meeting began to break up, and the traveler was putting on
+his coat when the man with the pipe made one last attempt to
+reason with him.
+
+"We are all scientists here, all educated men.  All of us
+agree that it is impossible for a heavier-than-air device to
+fly on its own through the air.  Don't you see that?  This is
+against the laws of nature--it violates the law of gravity."
+
+"Well," said the traveler, "perhaps there is another law,
+or perhaps there is a higher law than the law of gravity,
+which, when it is understood, will explain how planes can fly."
+
+"That's just what I'd expect a religious fanatic to say,"
+said a man who had been listening in.  "Science can jump
+into the trash as far as you religious types are concerned."
+
+"Not at all," said the traveler.  "But your science is not
+perfect.  You do not yet know everything about everything, what
+is possible and what is not possible."
+
+"Go take your religion to a church and keep it away from
+serious people," the man concluded, stomping out of the room.
+
+In the weeks that followed, the traveler was ridiculed
+and denounced in the newspapers, being called everything from a
+con artist to a prospective mental patient.  (The scientific
+journals said nothing about the man because they considered the
+whole matter as beneath serious thought.)  As a result, the
+traveler was often left to himself, and so he pulled out his
+tiny portable television set and began to watch it.  Just by
+chance, some visitors happened to come by and see the little
+box.  They were very impressed and urged the traveler to market
+his invention for putting a movie inside such a small space.
+
+In a few days, word had spread about this mini-movie and
+several scientists were convinced (after some debate) to come see
+it, together with some engineers representing the movie projector
+manufacturers of the nation.
+
+They wer

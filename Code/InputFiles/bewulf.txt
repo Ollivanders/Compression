@@ -1,0 +1,654 @@
+The Internet Wiretap edition of
+
+BEOWULF
+
+From The Harvard Classics, Volume 49.
+Copyright, 1910 by P.F. Collier & Son.
+
+This text is in the public domain, released July 1993.
+
+Prepared by Robin Katsuya-Corbet <corbet@astro.psu.edu>
+from scanner output provided by Internet Wiretap.
+
+          B E O W U L F
+
+Translated by Francis B. Gummere
+
+PRELUDE OF THE FOUNDER OF THE DANISH HOUSE
+
+LO, praise of the prowess of people-kings
+of spear-armed Danes, in days long sped,
+we have heard, and what honor the athelings
+    won!
+Oft Scyld the Scefing from squadroned foes,
+from many a tribe, the mead-bench tore,
+awing the earls. Since erst he lay
+friendless, a foundling, fate repaid him:
+for he waxed under welkin, in wealth he throve,
+till before him the folk, both far and near,
+who house by the whale-path, heard his mandate,
+gave him gifts: a good king he!
+To him an heir was afterward born,
+a son in his halls, whom heaven sent
+to favor the folk, feeling their woe
+that erst they had lacked an earl for leader
+so long a while; the Lord endowed him,
+the Wielder of Wonder, with world's renown.
+Famed was this Beowulf:[1] far flew the boast of him,
+son of Scyld, in the Scandian lands.
+So becomes it a youth to quit him well
+with his father's friends, by fee and gift,
+that to aid him, aged, in after days,
+come warriors willing, should war draw nigh,
+liegemen loyal: by lauded deeds
+shall an earl have honor in every clan.
+Forth he fared at the fated moment,
+sturdy Scyld to the shelter of God.
+Then they bore him over to ocean's billow,
+loving clansmen, as late he charged them,
+while wielded words the winsome Scyld,
+the leader beloved who long had ruled....
+In the roadstead rocked a ring-dight vessel,
+ice-flecked, outbound, atheling's barge:
+there laid they down their darling lord
+on the breast of the boat, the breaker-of-rings,[2]
+by the mast the mighty one. Many a treasure
+fetched from far was freighted with him.
+No ship have I known so nobly dight
+with weapons of war and weeds of battle,
+with breastplate and blade: on his bosom lay
+a heaped hoard that hence should go
+far o'er the flood with him floating away.
+No less these loaded the lordly gifts,
+thanes' huge treasure, than those had done
+who in former time forth had sent him
+sole on the seas, a suckling child.
+High o'er his head they hoist the standard,
+a gold-wove banner; let billows take him,
+gave him to ocean. Grave were their spirits,
+mournful their mood. No man is able
+to say in sooth, no son of the halls,
+no hero 'neath heaven, -- who harbored that freight!
+
+[1] Not, of course, Beowulf the Great, hero of the epic.
+[2] Kenning for king or chieftain of a comitatus: he breaks off gold from
+the spiral rings -- often worn on the arm -- and so rewards his followers.
+
+I
+
+Now Beowulf bode in the burg of the Scyldings,
+leader beloved, and long he ruled
+in fame with all folk, since his father had gone
+away from the world, till awoke an heir,
+haughty Healfdene, who held through life,
+sage and sturdy, the Scyldings glad.
+Then, one after one, there woke to him,
+to the chieftain of clansmen, children four:
+Heorogar, then Hrothgar, then Halga brave;
+and I heard that -- was --'s queen,
+the Heathoscylfing's helpmate dear.
+To Hrothgar was given such glory of war,
+such honor of combat, that all his kin
+obeyed him gladly till great grew his band
+of youthful comrades. It came in his mind
+to bid his henchmen a hall uprear,
+a master mead-house, mightier far
+than ever was seen by the sons of earth,
+and within it, then, to old and young
+he would all allot that the Lord had sent him,
+save only the land and the lives of his men.
+Wide, I heard, was the work commanded,
+for many a tribe this mid-earth round,
+to fashion the folkstead. It fell, as he ordered,
+in rapid achievement that ready it stood there,
+of halls the noblest: Heorot[1] he named it
+whose message had might in many a land.
+Not reckless of promise, the rings he dealt,
+treasure at banquet: there towered the hall,
+high, gabled wide, the hot surge waiting
+of furious flame.[2] Nor far was that day
+when father and son-in-law stood in feud
+for warfare and hatred that woke again.[3]
+  With envy and anger an evil spirit
+endured the dole in his dark abode,
+that he heard each day the din of revel
+high in the hall: there harps rang out,
+clear song of the singer. He sang who knew[4]
+tales of the early time of man,
+how the Almighty made the earth,
+fairest fields enfolded by water,
+set, triumphant, sun and moon
+for a light to lighten the land-dwellers,
+and braided bright the breast of earth
+with limbs and leaves, made life for all
+of mortal beings that breathe and move.
+  So lived the clansmen in cheer and revel
+a winsome life, till one began
+to fashion evils, that field of hell.
+Grendel this monster grim was called,
+march-riever[5] mighty, in moorland living,
+in fen and fastness; fief of the giants
+the hapless wight a while had kept
+since the Creator his exile doomed.
+On kin of Cain was the killing avenged
+by sovran God for slaughtered Abel.
+Ill fared his feud,[6] and far was he driven,
+for the slaughter's sake, from sight of men.
+Of Cain awoke all that woful breed,
+Etins[7] and elves and evil-spirits,
+as well as the giants that warred with God
+weary while: but their wage was paid them!
+
+[1] That is, "The Hart," or "Stag," so called from decorations in the
+gables that resembled the antlers of a deer. This hall has been carefully
+described in a pamphlet by Heyne. The building was rectangular, with
+opposite doors -- mainly west and east -- and a hearth in the middle of the
+single room. A row of pillars down each side, at some distance from
+the walls, made a space which was raised a little above the main floor,
+and was furnished with two rows of seats. On one side, usually south,
+was the high-seat midway between the doors. Opposite this, on the other
+raised space, was another seat of honor. At the banquet soon to be
+described, Hrothgar sat in the south or chief high-seat, and Beowulf oppo-
+site to him. The scene for a flying (see below, v.499) was thus very
+effectively set. Planks on trestles -- the "board" of later English litera-
+ture -- formed the tables just in front of the long rows of seats, and were
+taken away after banquets, when the retainers were ready to stretch them-
+selves out for sleep on the benches.
+[2] Fire was the usual end of these halls. See v. 781 below. One thinks
+of the splendid scene at the end of the Nibelungen, of the Nialssaga, of
+Saxo's story of Amlethus, and many a less famous instance.
+[3] It is to be supposed that all hearers of this poem knew how Hrothgar's
+hall was burnt, -- perhaps in the unsuccessful attack made on him by his
+son-in-law Ingeld.
+[4] A skilled minstrel. The Danes are heathens, as one is told presently;
+but this lay of beginnings is taken from Genesis.
+[5] A disturber of the border, one who sallies from his haunt in the fen
+and roams over the country near by. This probably pagan nuisance is now
+furnished with biblical credentials as a fiend or devil in good standing, so
+that all Christian Englishmen might read about him. "Grendel" may
+mean one who grinds and crushes.
+[6] Cain's.
+[7] Giants.
+
+II
+
+WENT he forth to find at fall of night
+that haughty house, and heed wherever
+the Ring-Danes, outrevelled, to rest had gone.
+Found within it the atheling band
+asleep after feasting and fearless of sorrow,
+of human hardship. Unhallowed wight,
+grim and greedy, he grasped betimes,
+wrathful, reckless, from resting-places,
+thirty of the thanes, and thence he rushed
+fain of his fell spoil, faring homeward,
+laden with slaughter, his lair to seek.
+Then at the dawning, as day was breaking,
+the might of Grendel to men was known;
+then after wassail was wail uplifted,
+loud moan in the morn. The mighty chief,
+atheling excellent, unblithe sat,
+labored in woe for the loss of his thanes,
+when once had been traced the trail of the fiend,
+spirit accurst: too cruel that sorrow,
+too long, too loathsome. Not late the respite;
+with night returning, anew began
+ruthless murder; he recked no whit,
+firm in his guilt, of the feud and crime.
+They were easy to find who elsewhere sought
+in room remote their rest at night,
+bed in the bowers,[1] when that bale was shown,
+was seen in sooth, with surest token, --
+the hall-thane's[2] hate. Such held themselves
+far and fast who the fiend outran!
+Thus ruled unrighteous and raged his fill
+one against all; until empty stood
+that lordly building, and long it bode so.
+Twelve years' tide the trouble he bore,
+sovran of Scyldings, sorrows in plenty,
+boundless cares. There came unhidden
+tidings true to the tribes of men,
+in sorrowful songs, how ceaselessly Grendel
+harassed Hrothgar, what hate he bore him,
+what murder and massacre, many a year,
+feud unfading, -- refused consent
+to deal with any of Daneland's earls,
+make pact of peace, or compound for gold:
+still less did the wise men ween to get
+great fee for the feud from his fiendish hands.
+But the evil one ambushed old and young
+death-shadow dark, and dogged them still,
+lured, or lurked in the livelong night
+of misty moorlands: men may say not
+where the haunts of these Hell-Runes[3] be.
+Such heaping of horrors the hater of men,
+lonely roamer, wrought unceasing,
+harassings heavy. O'er Heorot he lorded,
+gold-bright hall, in gloomy nights;
+and ne'er could the prince[4] approach his throne,
+-- 'twas judgment of God, -- or have joy in his hall.
+Sore was the sorrow to Scyldings'-friend,
+heart-rending misery. Many nobles
+sat assembled, and searched out counsel
+how it were best for bold-hearted men
+against harassing terror to try their hand.
+Whiles they vowed in their heathen fanes
+altar-offerings, asked with words[5]
+that the slayer-of-souls would succor give them
+for the pain of their people. Their practice this,
+their heathen hope; 'twas Hell they thought of
+in mood of their mind. Almighty they knew not,
+Doomsman of Deeds and dreadful Lord,
+nor Heaven's-Helmet heeded they ever,
+Wielder-of-Wonder. -- Woe for that man
+who in harm and hatred hales his soul
+to fiery embraces; -- nor favor nor change
+awaits he ever. But well for him
+that after death-day may draw to his Lord,
+and friendship find in the Father's arms!
+
+[1] The smaller buildings within the main enclosure but separate from
+the hall.
+[2] Grendel.
+[3] "Sorcerers-of-hell."
+[4] Hrothgar, who is the "Scyldings'-friend" of 170.
+[5] That is, in formal or prescribed phrase.
+
+III
+
+THUS seethed unceasing the son of Healfdene
+with the woe of these days; not wisest men
+assuaged his sorrow; too sore the anguish,
+loathly and long, that lay on his folk,
+most baneful of burdens and bales of the night.
+
+This heard in his home Hygelac's thane,
+great among Geats, of Grendel's doings.
+He was the mightiest man of valor
+in that same day of this our life,
+stalwart and stately. A stout wave-walker
+he bade make ready. Yon battle-king, said he,
+far o'er the swan-road he fain would seek,
+the noble monarch who needed men!
+The prince's journey by prudent folk
+was little blamed, though they loved him dear;
+they whetted the hero, and hailed good omens.
+And now the bold one from bands of Geats
+comrades chose, the keenest of warriors
+e'er he could find; with fourteen men
+the sea-wood[1] he sought, and, sailor proved,
+led them on to the land's confines.
+  Time had now flown;[2] afloat was the ship,
+boat under bluff. On board they climbed,
+warriors ready; waves were churning
+sea with sand; the sailors bore
+on the breast of the bark their bright array,
+their mail and weapons: the men pushed off,
+on its willing way, the well-braced craft.
+Then moved o'er the waters by might of the wind
+that bark like a bird with breast of foam,
+till in season due, on the second day,
+the curved prow such course had run
+that sailors now could see the land,
+sea-cliffs shining, steep high hills,
+headlands broad. Their haven was found,
+their journey ended. Up then quickly
+the Weders'[3] clansmen climbed ashore,
+anchored their sea-wood, with armor clashing
+and gear of battle: God they thanked
+for passing in peace o'er the paths of the sea.
+  Now saw from the cliff a Scylding clansman,
+a warden that watched the water-side,
+how they bore o'er the gangway glittering shields,
+war-gear in readiness; wonder seized him
+to know what manner of men they were.
+Straight to the strand his steed he rode,
+Hrothgar's henchman; with hand of might
+he shook his spear, and spake in parley.
+"Who are ye, then, ye armed men,
+mailed folk, that yon mighty vessel
+have urged thus over the ocean ways,
+here o'er the waters? A warden I,
+sentinel set o'er the sea-march here,
+lest any foe to the folk of Danes
+with harrying fleet should harm the land.
+No aliens ever at ease thus bore them,
+linden-wielders:[4] yet word-of-leave
+clearly ye lack from clansmen here,
+my folk's agreement. -- A greater ne'er saw I
+of warriors in world than is one of you, --
+yon hero in harness! No henchman he
+worthied by weapons, if witness his features,
+his peerless presence! I pray you, though, tell
+your folk and home, lest hence ye fare
+suspect to wander your way as spies
+in Danish land. Now, dwellers afar,
+ocean-travellers, take from me
+simple advice: the sooner the better
+I hear of the country whence ye came."
+
+[1] Ship.
+[2] That is, since Beowulf selected his ship and led his men to the harbor.
+[3] One of the auxiliary names of the Geats.
+[4] Or: Not thus openly ever came warriors hither; yet...
+
+IV
+
+To him the stateliest spake in answer;
+the warriors' leader his word-hoard unlocked:--
+"We are by kin of the clan of Geats,
+and Hygelac's own hearth-fellows we.
+To folk afar was my father known,
+noble atheling, Ecgtheow named.
+Full of winters, he fared away
+aged from earth; he is honored still
+through width of the world by wise men all.
+To thy lord and liege in loyal mood
+we hasten hither, to Healfdene's son,
+people-protector: be pleased to advise us!
+To that mighty-one come we on mickle errand,
+to the lord of the Danes; nor deem I right
+that aught be hidden. We hear -- thou knowest
+if sooth it is -- the saying of men,
+that amid the Scyldings a scathing monster,
+dark ill-doer, in dusky nights
+shows terrific his rage unmatched,
+hatred and murder. To Hrothgar I
+in greatness of soul would succor bring,
+so the Wise-and-Brave[1] may worst his foes, --
+if ever the end of ills is fated,
+of cruel contest, if cure shall follow,
+and the boiling care-waves cooler grow;
+else ever afterward anguish-days
+he shall suffer in sorrow while stands in place
+high on its hill that house unpeered!"
+Astride his steed, the strand-ward answered,
+clansman unquailing: "The keen-souled thane
+must be skilled to sever and sunder duly
+words and works, if he well intends.
+I gather, this band is graciously bent
+to the Scyldings' master. March, then, bearing
+weapons and weeds the way I show you.
+I will bid my men your boat meanwhile
+to guard for fear lest foemen come, --
+your new-tarred ship by shore of ocean
+faithfully watching till once again
+it waft o'er the waters those well-loved thanes,
+-- winding-neck'd wood, -- to Weders' bounds,
+heroes such as the hest of fate
+shall succor and save from the shock of war."
+They bent them to march, -- the boat lay still,
+fettered by cable and fast at anchor,
+broad-bosomed ship. -- Then shone the boars[2]
+over the cheek-guard; chased with gold,
+keen and gleaming, guard it kept
+o'er the man of war, as marched along
+heroes in haste, till the hall they saw,
+broad of gable and bright with gold:
+that was the fairest, 'mid folk of earth,
+of houses 'neath heaven, where Hrothgar lived,
+and the gleam of it lightened o'er lands afar.
+The sturdy shieldsman showed that bright
+burg-of-the-boldest; bade them go
+straightway thither; his steed then turned,
+hardy hero, and hailed them thus:--
+"Tis time that I fare from you. Father Almighty
+in grace and mercy guard you well,
+safe in your seekings. Seaward I go,
+'gainst hostile warriors hold my watch."
+
+[1] Hrothgar.
+[2] Beowulf's helmet has several boar-images on it; he is the "man of
+war"; and the boar-helmet guards him as typical representative of the
+marching party as a whole. The boar was sacred to Freyr, who was the
+favorite god of the Germanic tribes about the North Sea and the Baltic.
+Rude representations of warriors show the boar on the helmet quite as
+large as the helmet itself.
+
+V
+
+STONE-BRIGHT the street:[1] it showed the way
+to the crowd of clansmen. Corselets glistened
+hand-forged, hard; on their harness bright
+the steel ring sang, as they strode along
+in mail of battle, and marched to the hall.
+There, weary of ocean, the wall along
+they set their bucklers, their broad shields, down,
+and bowed them to bench: the breastplates clanged,
+war-gear of men; their weapons stacked,
+spears of the seafarers stood together,
+gray-tipped ash: that iron band
+was worthily weaponed! -- A warrior proud
+asked of the heroes their home and kin.
+"Whence, now, bear ye burnished shields,
+harness gray and helmets grim,
+spears in multitude? Messenger, I,
+Hrothgar's herald! Heroes so many
+ne'er met I as strangers of mood so strong.
+'Tis plain that for prowess, not plunged into exile,
+for high-hearted valor, Hrothgar ye seek!"
+Him the sturdy-in-war bespake with words,
+proud earl of the Weders answer made,
+hardy 'neath helmet:--"Hygelac's, we,
+fellows at board; I am Beowulf named.
+I am seeking to say to the son of Healfdene
+this mission of mine, to thy master-lord,
+the doughty prince, if he deign at all
+grace that we greet him, the good one, now."
+Wulfgar spake, the Wendles' chieftain,
+whose might of mind to many was known,
+his courage and counsel: "The king of Danes,
+the Scyldings' friend, I fain will tell,
+the Breaker-of-Rings, as the boon thou askest,
+the famed prince, of thy faring hither,
+and, swiftly after, such answer bring
+as the doughty monarch may deign to give."
+Hied then in haste to where Hrothgar sat
+white-haired and old, his earls about him,
+till the stout thane stood at the shoulder there
+of the Danish king: good courtier he!
+Wulfgar spake to his winsome lord:--
+"Hither have fared to thee far-come men
+o'er the paths of ocean, people of Geatland;
+and the stateliest there by his sturdy band
+is Beowulf named. This boon they seek,
+that they, my master, may with thee
+have speech at will: nor spurn their prayer
+to give them hearing, gracious Hrothgar!
+In weeds of the warrior worthy they,
+methinks, of our liking; their leader most surely,
+a hero that hither his henchmen has led."
+
+[1] Either merely paved, the strata via of the Romans, or else thought of
+as a sort of mosaic, an extravagant touch like the reckless waste of gold
+on the walls and roofs of a hall.
+
+VI
+
+HROTHGAR answered, helmet of Scyldings:--
+"I knew him of yore in his youthful days;
+his aged father was Ecgtheow named,
+to whom, at home, gave Hrethel the Geat
+his only daughter. Their offspring bold
+fares hither to seek the steadfast friend.
+And seamen, too, have said me this, --
+who carried my gifts to the Geatish court,
+thither for thanks, -- he has thirty men's
+heft of grasp in the gripe of his hand,
+the bold-in-battle. Blessed God
+out of his mercy this man hath sent
+to Danes of the West, as I ween indeed,
+against horror of Grendel. I hope to give
+the good youth gold for his gallant thought.
+Be thou in haste, and bid them hither,
+clan of kinsmen, to come before me;
+and add this word, -- they are welcome guests
+to folk of the Danes."
+                      [To the door of the hall
+Wulfgar went] and the word declared:--
+"To you this message my master sends,
+East-Danes' king, that your kin he knows,
+hardy heroes, and hails you all
+welcome hither o'er waves of the sea!
+Ye may wend your way in war-attire,
+and under helmets Hrothgar greet;
+but let here the battle-shields bide your parley,
+and wooden war-shafts wait its end."
+  Uprose the mighty one, ringed with his men,
+brave band of thanes: some bode without,
+battle-gear guarding, as bade the chief.
+Then hied that troop where the herald led them,
+under Heorot's roof: [the hero strode,]
+hardy 'neath helm, till the hearth he neared.
+Beowulf spake, -- his breastplate gleamed,
+war-net woven by wit of the smith:--
+"Thou Hrothgar, hail! Hygelac's I,
+kinsman and follower. Fame a plenty
+have I gained in youth! These Grendel-deeds
+I heard in my home-land heralded clear.
+Seafarers say how stands this hall,
+of buildings best, for your band of thanes
+empty and idle, when evening sun
+in the harbor of heaven is hidden away.
+So my vassals advised me well, --
+brave and wise, the best of men, --
+O sovran Hrothgar, to seek thee here,
+for my nerve and my might they knew full well.
+Themselves had seen me from slaughter come
+blood-flecked from foes, where five I bound,
+and that wild brood worsted. I' the waves I slew
+nicors[1] by night, in need and peril
+avenging the Weders,[2] whose woe they sought, --
+crushing the grim ones. Grendel now,
+monster cruel, be mine to quell
+in single battle! So, from thee,
+thou sovran of the Shining-Danes,
+Scyldings'-bulwark, a boon I seek, --
+and, Friend-of-the-folk, refuse it not,
+O Warriors'-shield, now I've wandered far, --
+that I alone with my liegemen here,
+this hardy band, may Heorot purge!
+More I hear, that the monster dire,
+in his wanton mood, of weapons recks not;
+hence shall I scorn -- so Hygelac stay,
+king of my kindred, kind to me! --
+brand or buckler to bear in the fight,
+gold-colored targe: but with gripe alone
+must I front the fiend and fight for life,
+foe against foe. Then faith be his
+in the doom of the Lord whom death shall take.
+Fain, I ween, if the fight he win,
+in this hall of gold my Geatish band
+will he fearless eat, -- as oft before, --
+my noblest thanes. Nor need'st thou then
+to hide my head;[3] for his shall I be,
+dyed in gore, if death must take me;
+and my blood-covered body he'll bear as prey,
+ruthless devour it, the roamer-lonely,
+with my life-blood redden his lair in the fen:
+no further for me need'st food prepare!
+To Hygelac send, if Hild[4] should take me,
+best of war-weeds, warding my breast,
+armor excellent, heirloom of Hrethel
+and work of Wayland.[5] Fares Wyrd[6] as she must."
+
+[1] The nicor, says Bugge, is a hippopotamus; a walrus, says ten Brink.
+But that water-goblin who covers the space from Old Nick of jest to the
+Neckan and Nix of poetry and tale, is all one needs, and Nicor is a good
+name for him.
+[2] His own people, the Geats.
+[3] That is, cover it as with a face-cloth. "There will be no need of
+funeral rites."
+[4] Personification of Battle.
+[5] The Germanic Vulcan.
+[6] This mighty power, whom the Christian poet can still revere, has here
+the general force of "Destiny."
+
+VII
+
+HROTHGAR spake, the Scyldings'-helmet:--
+"For fight defensive, Friend my Beowulf,
+to succor and save, thou hast sought us here.
+Thy father's combat[1] a feud enkindled
+when Heatholaf with hand he slew
+among the Wylfings; his Weder kin
+for horror of fighting feared to hold him.
+Fleeing, he sought our South-Dane folk,
+over surge of ocean the Honor-Scyldings,
+when first I was ruling the folk of Danes,
+wielded, youthful, this widespread realm,
+this hoard-hold of heroes. Heorogar was dead,
+my elder brother, had breathed his last,
+Healfdene's bairn: he was better than I!
+Straightway the feud with fee[2] I settled,
+to the Wylfings sent, o'er watery ridges,
+treasures olden: oaths he[3] swore me.
+  Sore is my soul to say to any
+of the race of man what ruth for me
+in Heorot Grendel with hate hath wrought,
+what sudden harryings. Hall-folk fail me,
+my warriors wane; for Wyrd hath swept them
+into Grendel's grasp. But God is able
+this deadly foe from his deeds to turn!
+Boasted full oft, as my beer they drank,
+earls o'er the ale-cup, armed men,
+that they would bide in the beer-hall here,
+Grendel's attack with terror of blades.
+Then was this mead-house at morning tide
+dyed with gore, when the daylight broke,
+all the boards of the benches blood-besprinkled,
+gory the hall: I had heroes the less,
+doughty dear-ones that death had reft.
+-- But sit to the banquet, unbind thy words,
+hardy hero, as heart shall prompt thee."
+
+Gathered together, the Geatish men
+in the banquet-hall on bench assigned,
+sturdy-spirited, sat them down,
+hardy-hearted. A henchman attended,
+carried the carven cup in hand,
+served the clear mead. Oft minstrels sang
+blithe in Heorot. Heroes revelled,
+no dearth of warriors, Weder and Dane.
+
+[1] There is no irrelevance here. Hrothgar sees in Beowulf's mission a
+heritage of duty, a return of the good offices which the Danish king ren-
+dered to Beowulf's father in time of dire need.
+[2] Money, for wergild, or man-price.
+[3] Ecgtheow, Beowulf's sire.
+
+VIII
+
+UNFERTH spake, the son of Ecglaf,
+who sat at the feet of the Scyldings' lord,
+unbound the battle-runes.[1] -- Beowulf's quest,
+sturdy seafarer's, sorely galled him;
+ever he envied that other men
+should more achieve in middle-earth
+of fame under heaven than he himself. --
+"Art thou that Beowulf, Breca's rival,
+who emulous swam on the open sea,
+when for pride the pair of you proved the floods,
+and wantonly dared in waters deep
+to risk your lives? No living man,
+or lief or loath, from your labor dire
+could you dissuade, from swimming the main.
+Ocean-tides with your arms ye covered,
+with strenuous hands the sea-streets measured,
+swam o'er the waters. Winter's storm
+rolled the rough waves. In realm of sea
+a sennight strove ye. In swimming he topped thee,
+had more of main! Him at morning-tide
+billows bore to the Battling Reamas,
+whence he hied to his home so dear
+beloved of his liegemen, to land of Brondings,
+fastness fair, where his folk he ruled,
+town and treasure. In triumph o'er thee
+Beanstan's bairn[2] his boast achieved.
+So ween I for thee a worse adventure
+-- though in buffet of battle thou brave hast been,
+in struggle grim, -- if Grendel's approach
+thou darst await through the watch of night!"
+
+  Beowulf spake, bairn of Ecgtheow:--
+"What a deal hast 
